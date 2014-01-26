@@ -1,9 +1,0 @@
-hello world.
-
-scala
-
-play
-
-mongodb
-
-java
